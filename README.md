@@ -20,3 +20,5 @@ I am currently in my 3rd year of Mathematics and Engineering, with an option in 
 [2]: https://www.instagram.com/keviniang
 
 ---
+
+Thanks for checking out my profile!
