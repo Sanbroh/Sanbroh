@@ -6,7 +6,7 @@ I am currently in my 3rd year of Mathematics and Engineering, with an option in 
 - 🚅 I’m currently working on a few projects:
   - **Building an AI/ML powered visual sensor system for a competitive Hyperloop pod**
   - **Researching and prototyping with magnetic levitation**
-  - **Designing an AR mobile application to globalize small businesses**
+  - **Designing an AR mobile application to globalize local businesses**
 - 🌱 I’m currently learning **Reinforcement Learning, Machine Vision, and Systems Design**
 - 🕸️ Visit my portfolio website: https://sanbroh.github.io
 - 📫 Email me here: 19kl45@queensu.ca
