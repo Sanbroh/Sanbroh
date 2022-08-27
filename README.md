@@ -9,6 +9,7 @@ I am currently in my 3rd year of Mathematics and Engineering, with an option in 
   - **Designing an AR mobile application to globalize local businesses**
 - 🌱 I’m currently learning **Reinforcement Learning, Machine Vision, and Systems Design**
 - 🕸️ Visit my portfolio website: https://sanbroh.github.io
+- ⚒️ See my projects on Devpost: https://devpost.com/Sanbroh
 - 📫 Email me here: 19kl45@queensu.ca
 - ⭐ See my resume: https://sanbroh.github.io/files/Kevin_Liang_CV.pdf
 
