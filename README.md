@@ -17,7 +17,7 @@ I am currently in my 3rd year of Mathematics and Engineering, with an option in 
 [![linkedin](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/LinkedIn.png (LinkedIn))][1]
 [![instagram](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Instagram.png (Instagram))][2]
 
-[1]: https://www.linkedin.com/in/kevin-liang-32b9791aa/
+[1]: https://www.linkedin.com/in/keviniang
 [2]: https://www.instagram.com/keviniang
 
 ---
