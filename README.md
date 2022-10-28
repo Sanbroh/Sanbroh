@@ -6,7 +6,7 @@ I am currently in my 3rd year of Mathematics and Engineering, with an option in 
 - 🚅 I’m currently working on a few projects:
   - **Working as a consulting PM for a startup (KoStudio.co)**
   - **Researching and prototyping with magnetic levitation for a Hyperloop pod**
-  - **Designing an AR mobile application to globalize local businesses**
+  - **Designing my second product to be launched on the app stores**
 - 🌱 I’m currently learning **Reinforcement Learning, Machine Vision, and Systems Design**
 - 🕸️ Visit my portfolio website: https://www.keviniang.com/
 - ⚒️ See my projects on Devpost: https://devpost.com/Sanbroh
