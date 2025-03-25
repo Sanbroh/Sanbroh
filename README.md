@@ -1,13 +1,13 @@
 ### 👋 Nice to meet you, I'm Kevin!
 ---
 **About Me:** <br><br>
-I am currently in my 4th year of Mathematics and Engineering, with an option in Systems and Robotics, at Queen's University.
+I am currently in my final year of Mathematics and Engineering, with an option in Systems and Robotics, at Queen's University.
 
 - 🚅 I’m currently working on a few things:
-  - **Algo product management and data analytics at RBC Capital Markets**
-  - **eVTOL drone design and manufacturing for a student design team (Queen's Aerospace)**
-  - **Leading workshops and training series with the student government (Queen's EngSoc)**
-- 🌱 I’m currently learning **Machine Learning, Financial Engineering, and Systems Design**
+  - **Drone design and manufacturing for a student design team (Queen's Aerospace)**
+  - **Running workshops and training series with the student government (Queen's EngSoc)**
+  - **Speech decomposition thesis project under the supervision of Dr. Fady Alajaji (MTHE 493)**
+- 🌱 I’m currently learning **Control Theory, Information Theory, and Machine Learning**
 - 🕸️ Visit my portfolio website: https://www.keviniang.com/
 - ⚒️ See my projects on Devpost: https://devpost.com/Sanbroh
 - 📫 Here's my email: 19kl45@queensu.ca
